@@ -1,6 +1,6 @@
 /*Nama File     : CekPrima.c*/
 /*Deskripsi     : mengetahui sebuah bilangan integer sembarang N (N>0) yang dimasukan melalui keyboard termasuk bilangan prima atau bukan*/
-/*Pembuat       : Handhika Pranata Kusuma Wardana - 24060121140112*/
+/*Pembuat       : Naufal Ariq Dwikurnia - 24060121140142*/
 /*Tgl Pembuatan : Kamis, 24 Maret 2022*/
 
 #include <stdio.h>
