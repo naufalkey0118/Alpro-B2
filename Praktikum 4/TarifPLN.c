@@ -1,6 +1,6 @@
 /*Nama File 	: TarifPLN.c*/
 /*Deskripsi 	: Menghitung dan menampilkan berapa tarif PLN yang dikenakan pada layar */
-/*Pembuat   	: Handhika Pranata Kusuma Wardana - 24060121140112*/
+/*Pembuat   	: Naufal Ariq Dwikurnia - 24060121140142*/
 /*Tgl Pembuatan	: Selasa, 17-03-2022 08:16 WIB*/
 
 
