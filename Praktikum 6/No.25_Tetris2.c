@@ -1,6 +1,6 @@
 /*Nama File 	: No.25_Tetris2*/
-/*Deskripsi 	: Diberikan sebuah integer N > 0 yang dimasukan melalui keyboard, maka  tampilkanlah dilayar susunan karakter ‘*’*/
-/*Pembuat   	: 24060121140144 - Aditya Arif Setiawan*/
+/*Deskripsi 	: Diberikan sebuah integer N > 0 yang dimasukan melalui keyboard, maka  tampilkanlah dilayar susunan karakter â€˜*â€™*/
+/*Pembuat   	: 24060121140142 - Naufal Ariq Dwikurnia*/
 /*Tgl Pembuatan	: Rabu, 30 Maret 2022*/
 
 #include <stdio.h>
