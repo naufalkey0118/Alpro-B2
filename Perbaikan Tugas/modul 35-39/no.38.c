@@ -1,9 +1,9 @@
 // Nama File    : no.38 //
 // Nama program : JumDere41t //
 // Deskripsi    : menghasilkan sebuah deret bilangan sesuai skema pemrosesan sekuensialnya //
-// Nama         : Divia Shinta Sukarsaatmadja //
-// NIM          : 24060121140104 //
-// Kelas		: Informatika B //
+// Nama         : Naufal Ariq Dwikurnia //
+// NIM          : 24060121140142 //
+// Kelas	: Informatika B //
 // Tanggal      : Sabtu, 2 April 2022 //
 
 #include <stdio.h>
