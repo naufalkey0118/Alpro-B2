@@ -1,9 +1,9 @@
 // Nama File    : no.36 //
 // Nama program : IsiMatrik //
 // Deskripsi    : mengisikan nilai pada elemen-elemen matrik yang memiliki ordo sama (M x N) sesuai aturan //
-// Nama         : Divia Shinta Sukarsaatmadja //
-// NIM          : 24060121140104 //
-// Kelas  		: Informatika B //
+// Nama         : Naufal Ariq Dwikurnia //
+// NIM          : 24060121140142 //
+// Kelas  	: Informatika B //
 // Tanggal      : Kamis, 31 Maret 2022 //
 
 #include <stdio.h>
