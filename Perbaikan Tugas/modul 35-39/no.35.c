@@ -3,7 +3,7 @@
 // Deskripsi    : menentukan kelipatan bilangan terkecil, jika diberikan sebuah array integer A sembarang//
 // Nama         : Naufal Ariq Dwikurnia //
 // NIM          : 24060121140142 //
-// Kelas  		: Informatika B //
+// Kelas  	: Informatika B //
 // Tanggal      : Kamis, 31 Maret 2022 //
 
 #include <stdio.h>
