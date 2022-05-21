@@ -1,9 +1,9 @@
 // Nama File    : no.39 //
 // Nama program : CekPrima //
 // Deskripsi    : mengecek suatu i bilangan integer sembarang > 0 termasuk bilangan PRIMA atau BUKAN //
-// Nama         : Divia Shinta Sukarsaatmadja //
-// NIM          : 24060121140104 //
-// Kelas  		: Informatika B //
+// Nama         : Naufal Ariq Dwikurnia //
+// NIM          : 24060121140142 //
+// Kelas  	: Informatika B //
 // Tanggal      : Kamis, 31 Maret 2022 //
 
 #include <stdio.h>
