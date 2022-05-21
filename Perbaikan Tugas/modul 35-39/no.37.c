@@ -1,9 +1,9 @@
 // Nama File    : no.37 //
 // Nama program : Kuadran //
 // Deskripsi    : melakukan pengecekan mengenai kuadran sebuah titik P //
-// Nama         : Divia Shinta Sukarsaatmadja //
-// NIM          : 24060121140104 //
-// Kelas  		: Informatika B //
+// Nama         : Naufal Ariq Dwikurnia //
+// NIM          : 24060121140142 //
+// Kelas  	: Informatika B //
 // Tanggal      : Kamis, 31 Maret 2022 //
 
 #include <stdio.h>
