@@ -1,1 +1,0 @@
-Naufal Ariq Dwikurnia
